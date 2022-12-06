@@ -143,7 +143,9 @@ function App()
 	// Do not alter/remove main div
 	return (
 	<div id="main">
-		
+		<select>
+			<option value="state">state</option>
+		</select>
 	</div>
 	);
 }
