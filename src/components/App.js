@@ -145,6 +145,8 @@ function App()
 	<div id="main">
 		<select>
 			<option value="state">state</option>
+			<option value="city">city</option>
+			<option value="landmarks">landmark</option>
 		</select>
 	</div>
 	);
